@@ -1,6 +1,6 @@
 {
-  "version": "3.0.0",
-  "download_url": "https://github.com/impulsoPay/impulsopay-actualizaciones/raw/main/versiones/v3.0.0/impulsopay-landing.zip",
-  "notas": "Estructura nueva: textos, equipos y preguntas en fichas (contenido/); panel en WordPress (horario, cargo, secciones visibles, barra de promoción con fechas); testimonios desde WordPress con permiso; reglas de contenido también en WordPress; correo de aviso con diseño; actualización automática desde GitHub; revisiones de enlaces, imágenes y capturas",
-  "fecha": "2026-10-11"
+  "version": "3.1.0",
+  "download_url": "https://github.com/impulsoPay/impulsopay-actualizaciones/raw/main/versiones/v3.1.0/impulsopay-landing.zip",
+  "notas": "Nueva sección Más servicios: cajeros ATM y certificaciones para restaurantes con Lujan Business Services (cada una se puede ocultar en Ajustes); enlace Servicios en el menú",
+  "fecha": "2026-10-26"
 }
